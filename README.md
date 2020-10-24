@@ -1,7 +1,7 @@
 # TCC UNIP 2019
-<<<<<<< HEAD
+
  TCC Reconhecimento  Facial aplicado no Controle de Acesso Residencial
-=======
+
 
  Neste trabalho de conclusão de curso, foi desenvolvido um protótipo de uma porta de madeira com tranca integrada a um Arduino, simulando um ambiente residencial. 
  
