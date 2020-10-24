@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca7923a6-6504-4975-8a8f-bd6ddbc4a04c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tela.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="175" column="28" lean-forward="true" selection-start-line="175" selection-start-column="28" selection-end-line="175" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#104#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Setup Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>salvar log</find>
+      <find>&gt;=</find>
+      <find>inicia_captura</find>
+      <find>self.counter</find>
+      <find>serial.ser</find>
+      <find>self.identificando</find>
+      <find>self.indice</find>
+      <find>self.descritores</find>
+      <find>self.reconhecer</find>
+      <find>select</find>
+      <find>select_users</find>
+      <find>select id</find>
+      <find>self.select_users()</find>
+      <find>print</find>
+      <find>disabled</find>
+      <find>self.lb</find>
+      <find>print(</find>
+      <find>self.indices</find>
+      <find>self.descritoresFaciais</find>
+      <find>\n</find>
+      <find>detector</find>
+      <find>captura</find>
+      <find>self.nomes</find>
+      <find>self.detector</find>
+      <find>cv2.re</find>
+      <find>valor de</find>
+      <find>valor</find>
+      <find>self.ser</find>
+      <find>self.treinar</find>
+      <find>iniciando</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>iniciar</replace>
+      <replace>thr</replace>
+      <replace>conectado</replace>
+      <replace>img</replace>
+      <replace>Camera</replace>
+      <replace>Tela</replace>
+      <replace>cam</replace>
+      <replace>tk</replace>
+      <replace>reconhecido</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Anaconda3/envs/my_env/Lib/site-packages/__init__.py" />
+        <option value="$PROJECT_DIR$/conexao/conexao.py" />
+        <option value="$PROJECT_DIR$/deteccao_cnn.py" />
+        <option value="$PROJECT_DIR$/acoes.kv" />
+        <option value="$PROJECT_DIR$/tela_tk.py" />
+        <option value="$PROJECT_DIR$/captura.py" />
+        <option value="$PROJECT_DIR$/fps_demo.py" />
+        <option value="$PROJECT_DIR$/tela_thread.py" />
+        <option value="$PROJECT_DIR$/conexao/conexao_arduino.py" />
+        <option value="$PROJECT_DIR$/blabla.py" />
+        <option value="$PROJECT_DIR$/reconhecimento.py" />
+        <option value="$PROJECT_DIR$/teste.py" />
+        <option value="$PROJECT_DIR$/slide.py" />
+        <option value="$PROJECT_DIR$/comparativo_hog_haarcascades.py" />
+        <option value="$PROJECT_DIR$/treinamento_dataset.py" />
+        <option value="$PROJECT_DIR$/avaliacao_dataset.py" />
+        <option value="$PROJECT_DIR$/treinamento.py" />
+        <option value="$PROJECT_DIR$/pontos_faciais.py" />
+        <option value="$USER_HOME$/Anaconda3/envs/curso_dlib/executavel/tela.py" />
+        <option value="$PROJECT_DIR$/tela.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TccReconhecimentoDlib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TccReconhecimentoDlib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TccReconhecimentoGpu" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bruno Ienne\PycharmProjects\TccReconhecimentoDlib\reconhecimento_dataset" />
+      <recent name="C:\Users\Bruno Ienne\PycharmProjects\TccReconhecimentoDlib\fotos_dataset" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bruno Ienne\PycharmProjects\TccReconhecimentoDlib" />
+      <recent name="C:\Users\Bruno Ienne\PycharmProjects\TccReconhecimentoDlib\fotos_dataset" />
+      <recent name="C:\Users\Bruno Ienne\PycharmProjects\TccReconhecimentoDlib\recursos" />
+      <recent name="C:\Users\Bruno Ienne\PycharmProjects\TccReconhecimentoDlib\fotos" />
+      <recent name="C:\Users\Bruno Ienne\Anaconda3\envs\my_env\Lib\site-packages" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.tela">
+    <configuration name="avaliacao_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TccReconhecimentoDlib" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/avaliacao_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pontos_faciais" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TccReconhecimentoDlib" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pontos_faciais.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tela (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TccReconhecimentoDlib" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Anaconda3/envs/curso_dlib/executavel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Anaconda3/envs/curso_dlib/executavel/tela.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tela" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TccReconhecimentoDlib" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tela.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="treinamento" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TccReconhecimentoDlib" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/treinamento.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.tela" />
+      <item itemvalue="Python.treinamento" />
+      <item itemvalue="Python.avaliacao_dataset" />
+      <item itemvalue="Python.pontos_faciais" />
+      <item itemvalue="Python.tela (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tela" />
+        <item itemvalue="Python.tela (1)" />
+        <item itemvalue="Python.pontos_faciais" />
+        <item itemvalue="Python.treinamento" />
+        <item itemvalue="Python.avaliacao_dataset" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca7923a6-6504-4975-8a8f-bd6ddbc4a04c" name="Default" comment="" />
+      <created>1553187575489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553187575489</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4977169" visible="true" weight="0.21726191" />
+      <window_info id="Structure" order="1" sideWeight="0.5022831" side_tool="true" weight="0.30431548" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49479166" weight="0.45662847" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.5037936" side_tool="true" weight="0.18438539" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5052083" side_tool="true" weight="0.30932897" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3207856" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4977169" visible="true" weight="0.25892857" />
+      <window_info id="Structure" order="1" sideWeight="0.5022831" side_tool="true" weight="0.30431548" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49479166" visible="true" weight="0.45008183" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.5037936" side_tool="true" weight="0.18438539" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5052083" side_tool="true" weight="0.30932897" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3207856" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fotos/pessoa.4.1.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_18.59.56.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_19.00.01.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_20.09.04.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_20.08.50.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_19.15.10.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_19.03.38.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_19.10.53.jpg" />
+    <entry file="file://$PROJECT_DIR$/fotos/pessoa.5.3.jpg" />
+    <entry file="file://$PROJECT_DIR$/fotos/pessoa.5.1.jpg" />
+    <entry file="file://$PROJECT_DIR$/fotos/pessoa.5.2.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_20.25.22.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_20.29.00.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_20.29.28.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_20.25.29.jpg" />
+    <entry file="file://$PROJECT_DIR$/fotos/pessoa.6.3.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_20.31.38.jpg" />
+    <entry file="file://$PROJECT_DIR$/fotos/pessoa.6.2.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_20.34.04.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_20.33.41.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_20.33.33.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_20.32.04.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_20.38.33.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_20.37.47.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_20.35.18.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_20.41.35.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_20.41.50.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_20.42.22.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-17-11-2019_20.43.20.jpg" />
+    <entry file="file://$PROJECT_DIR$/fotos/pessoa.9.3.jpg" />
+    <entry file="file://$PROJECT_DIR$/fotos/pessoa.9.2.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-26-11-2019_21.02.19.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-26-11-2019_21.08.12.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-26-11-2019_21.09.33.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-26-11-2019_21.02.49.jpg" />
+    <entry file="file://$USER_HOME$/Desktop/executavel/setup.py" />
+    <entry file="file://$PROJECT_DIR$/captura.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/curso_dlib/executavel/setup.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/curso_dlib/executavel/tela.py" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-04-12-2019_19.55.24.jpg" />
+    <entry file="file://$PROJECT_DIR$/fotos/pessoa.2.1.jpg" />
+    <entry file="file://$PROJECT_DIR$/fotos/pessoa.2.2.jpg" />
+    <entry file="file://$PROJECT_DIR$/fotos/pessoa.2.3.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-04-12-2019_20.19.55.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-04-12-2019_20.18.16.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-04-12-2019_20.22.02.jpg" />
+    <entry file="file://$PROJECT_DIR$/descritores/indices_pessoa.pickle" />
+    <entry file="file://$PROJECT_DIR$/descritores/descritor_pessoa.npy" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-04-12-2019_20.33.46.jpg" />
+    <entry file="file://$PROJECT_DIR$/desconhecidos/desconhecido-04-12-2019_20.34.30.jpg" />
+    <entry file="file://$PROJECT_DIR$/tela.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="175" column="28" lean-forward="true" selection-start-line="175" selection-start-column="28" selection-end-line="175" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
